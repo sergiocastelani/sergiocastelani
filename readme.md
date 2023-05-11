@@ -40,7 +40,7 @@ I'm currently deepening my studies on web development at [Growdev](https://www.g
 
 ### ⚙️ &nbsp;GitHub Analytics
 <p align="center">
-<a href="https://github.com/sergiocastelani">
+<a href="https://github.com/sergiocastelani" target="_blank">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=sergiocastelani&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sergiocastelani&layout=compact&langs_count=8&theme=algolia"/>
 </a>
@@ -50,8 +50,12 @@ I'm currently deepening my studies on web development at [Growdev](https://www.g
 
 ### 🤝🏻 &nbsp;Connect with Me
 <p align="center">
-<a href="https://linkedin.com/in/sergiocastelani"><img src="https://img.shields.io/badge/-Sergio%20Castelani-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:sergio.castelani@gmail.com"><img src="https://img.shields.io/badge/-sergio.castelani@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://linkedin.com/in/sergiocastelani" target="_blank">
+  <img src="https://img.shields.io/badge/-Sergio%20Castelani-0077B5?style=flat&logo=Linkedin&logoColor=white"/>
+</a>
+<a href="mailto:sergio.castelani@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/-sergio.castelani@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/>
+</a>
 </p>
 
 <br><br>
