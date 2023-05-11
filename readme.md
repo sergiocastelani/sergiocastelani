@@ -12,6 +12,8 @@ I'm currently deepening my studies on web development at [Growdev](https://www.g
 
 <img alt="Coding research" width="300px" height="300px" src="https://raw.githubusercontent.com/sergiocastelani/sergiocastelani/master/assets/coding.gif" align="right"/>
 
+<br><br>
+
 ### 🛠 &nbsp;Tech Experience
 <br><br>
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
@@ -32,6 +34,8 @@ I'm currently deepening my studies on web development at [Growdev](https://www.g
 ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
 
+<br><br>
+
 ### ⚙️ &nbsp;GitHub Analytics
 <p align="center">
 <a href="https://github.com/sergiocastelani">
@@ -39,5 +43,15 @@ I'm currently deepening my studies on web development at [Growdev](https://www.g
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sergiocastelani&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
+
+<br><br>
+
+### 🤝🏻 &nbsp;Connect with Me
+<p align="center">
+<a href="https://linkedin.com/in/sergiocastelani"><img src="https://img.shields.io/badge/-Sergio%20Castelani-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:sergio.castelani@gmail.com"><img src="https://img.shields.io/badge/-sergio.castelani@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+</p>
+
+<br><br>
 
 Last Edited on: 10/05/2023
